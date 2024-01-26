@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="MANIFEST-37A166BF-8425-645E-F7AC-F5E851AC7EA6ZV2590BSST11ZV9816">
+
+	<organizations default = "YN_GYMLDNXS_20210329_V1">
+		<organization identifier = "YN_GYMLDNXS_20210329_V1">
+			<title>《关于毛利的那些事》</title>
+			<item identifier="item-BSST11ZV9816" identifierref="res-BSST11ZV9816">
+				<title>《关于毛利的那些事》</title>
+			</item>
+			<metadata>
+				<schema>ADL SCORM</schema>
+				<schemaversion>1.2</schemaversion>
+			</metadata>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="res-BSST11ZV9816" type="webcontent" adlcp:scormtype="sco" href="index.html">
+			<file href="index.html"/>
+		</resource>
+	</resources>
+</manifest>
